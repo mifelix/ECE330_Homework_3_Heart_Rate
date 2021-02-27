@@ -1,0 +1,13 @@
+Enter Your Name & Date Of Birth, please (first name, last name, month, day, year): Michael Felix 09 28 2000
+Your Name Is: Michael Felix. Your Birthday Is: 9/28/2000
+You Are 20 Years Old.
+Your Max Heart Rate Is: 200
+Your Target Heart Rate Is: 100 - 170
+
+
+
+Enter Your Name & Date Of Birth, please (first name, last name, month, day, year): Lisa Simpson 04 20 1945
+Your Name Is: Lisa Simpson. Your Birthday Is: 4/20/1945
+You Are 75 Years Old.
+Your Max Heart Rate Is: 145
+Your Target Heart Rate Is: 72 - 123
